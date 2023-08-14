@@ -1,5 +1,11 @@
 # gStore Logigal Plan Optimizer Demonstration
 
+This is the implementation of demonstration paper in CIKM 2023: "gFOV: A Full-Stack SPARQL Query Optimizer & Plan Visualizer"
+
+The logical plan optimizer part is included in [Demo Branch in gStore-UO-opt repo](https://github.com/SoftlySpoken/gStore-UO-opt/tree/demo).
+
+![Preview](/assets/screenshot.jpg)
+
 ## Prepare Dependecies
 
 1. Install Python dependencies:
@@ -8,7 +14,7 @@
 pip3 install -r requirements.txt
 ```
 
-2. Install Node.js and yarn:
+2. Install Node.js (LTS version) and yarn:
 
 ```bash
 sudo apt install nodejs
