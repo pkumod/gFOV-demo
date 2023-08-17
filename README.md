@@ -1,8 +1,10 @@
-# gStore Logigal Plan Optimizer Demonstration
+# gStore Logical Plan Optimizer Demonstration
 
-This is the implementation of demonstration paper in CIKM 2023: "gFOV: A Full-Stack SPARQL Query Optimizer & Plan Visualizer"
+This is the implementation of demonstration paper in CIKM 2023: "gFOV: A Full-Stack SPARQL Query Optimizer & Plan Visualizer."
 
 The logical plan optimizer part is included in [Demo Branch in gStore-UO-opt repo](https://github.com/SoftlySpoken/gStore-UO-opt/tree/demo).
+
+gFOV.mp4 is a short video showing the usage of the demonstrated system.
 
 ![Preview](/assets/screenshot.jpg)
 
